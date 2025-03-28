@@ -10,6 +10,6 @@ int main() {
     scanf("%d", &num2);  
 
     sum = num1 + num2;  
-    printf("Sum : %d\n", num1, num2, sum);  
+    printf("Sum: %d\n", num1, num2, sum);  // Printing the result
     return 0;
 }
