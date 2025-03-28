@@ -9,6 +9,6 @@ int main() {
 
     product = num1 * num2;  // Calculating the product of the two numbers
 
-    printf("Product:%.2f\n", num1, num2, product);  // Printing the result
+    printf("Product:%.2f\n", product);  // Printing the result
     return 0;
 }
