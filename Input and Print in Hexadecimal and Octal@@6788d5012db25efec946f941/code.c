@@ -6,7 +6,7 @@ int main() {
     
     scanf("%d", &number);  // Taking the integer input
 
-    printf("Hexadecimal: %x\N", number);  // Printing the hexadecimal representation
+    printf("Hexadecimal: %X\n", number);  // Printing the hexadecimal representation
     printf("Octal: %o\n", number);        // Printing the octal representation
 
     return 0;
