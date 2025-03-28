@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    float number;  // Variable to store the floating-point number
-    scanf("%f", &number);  // Taking input from the user
-
-    printf("You entered: %f\n", number);  // Displaying the number
+    float number;
+    scanf("%f", &number);
+    printf("You entered: %f\n", number);  
     return 0;
 }
